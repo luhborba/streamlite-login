@@ -1,0 +1,16 @@
+credentials:
+  usernames:
+    lborba:
+      email: testando@gmail.com
+      logged_in: False
+      name: Luciano Borba
+      password: abcd1234
+    randrade:
+      email: testando1@gmail.com
+      logged_in: False
+      name: Raquel Barreto
+      password: abcd1234
+cookie:
+  expiry_days: 1
+  key: some_signature_key
+  name: some_cookie_name
